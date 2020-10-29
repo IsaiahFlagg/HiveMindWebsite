@@ -160,7 +160,7 @@ html, body {
   color: red;
 }
 
-.fa-facebook:hover, .fa-google-plus-g:hover, .fa-twitch:hover, .fa-twitter:hover, .fa-youtube:hover {
+.fa-steam:hover, .fa-google-plus-g:hover, .fa-twitch:hover, .fa-discord:hover, .fa-youtube:hover {
   color: #d5d5d5;
 }
 
