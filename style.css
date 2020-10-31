@@ -110,9 +110,9 @@ html, body {
 }
 
 /* add color to icons */
-.fa-code {
+/* .fa-code {
   color: #e54d26;
-}
+} */
 .fa-bold {
   color: #563d7c;
 }
@@ -122,9 +122,19 @@ html, body {
 }
 
 /* size and space the icons */
-.fa-bold, .fa-code, .fa-css3 {
+#joinDis {
   font-size: 4em;
   margin: 1rem;
+}
+
+#rank {
+  max-width: 6rem;
+  max-height: 6rem;
+}
+
+#rlicon {
+  max-width: 6rem;
+  max-height: 6rem;
 }
 
 /* gif section */
@@ -190,7 +200,9 @@ hr.light-100 {
   margin-bottom: 1rem;
 }
 
-
+#webHost {
+  border: 2px solid #000;
+}
 
 
 
