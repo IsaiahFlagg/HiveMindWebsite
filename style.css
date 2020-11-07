@@ -4,7 +4,7 @@ html, body {
     height: 100%;
     width: 100%;
     font-family: sans-serif;
-    color: yellow;
+    color: white;
     background-color: #000;
 }
 
@@ -12,7 +12,7 @@ html, body {
 
 .navbar {
   padding: .8rem;
-  background-color: yellow !important; 
+  background-color: #1a2930 !important; 
 }
 
 #navBtn {
@@ -21,7 +21,7 @@ html, body {
 } 
 
 #navBtnSpan {
-  background-color: yellow;
+  background-color: #1a2930;
 }
 
 .navbar-nav li {
@@ -31,7 +31,15 @@ html, body {
 
 .nav-link {
   font-size: 1.1em !important; 
+  color: white !important;
 }
+
+#rlpic {
+  width: 100%;
+  border: 15px solid white;
+}
+
+
 
 #logo {
   max-width: 70%;
@@ -74,9 +82,9 @@ html, body {
 }
 
 .btn-primary {
-  background-color: #fffb00;
-  border: 1px solid #fffb00;
-  color: #000;
+  background-color: #1a2930;
+  border: 1px solid #1a2930;
+  color: white;
 }
 
 .btn-primary:hover {
